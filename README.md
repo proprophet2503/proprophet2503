@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @proprophet2503
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C++
-- 📫 How to reach me : yeremia749@gmail.com
+- 👋 Hi
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Python
 
 <!---
 proprophet2503/proprophet2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
