@@ -1,6 +1,32 @@
-- 👋 Hi
-- 👀 I’m interested in AI/ML
+# 👋 Hi, I'm Jeremy Mattathias Mboe  
 
-proprophet2503/proprophet2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm currently studying **Artificial Intelligence Engineering** at **Institut Teknologi Sepuluh Nopember (ITS)**, class of 2024.  
+💡 Passionate about exploring the fields of **Artificial Intelligence, Deep Learning, and Computer Vision**.  
+
+---
+
+## 🔎 About Me
+- 🌱 Constantly learning and improving my skills in AI/ML.  
+- 🤖 Interested in building real-world AI applications, especially related to image understanding and intelligent systems.  
+- 📚 Currently focusing on projects involving **deep learning models** and **computer vision tasks**.  
+
+---
+
+## 🛠️ Tech Interests
+- **Data Mining**
+- **Machine Learning**  
+- **Deep Learning** (PyTorch, TensorFlow)  
+- **Computer Vision** (OpenCV, YOLO, CNNs)  
+- **Data Science & Analytics**  
+
+---
+
+## 📫 Let's Connect
+-  GitHub: [proprophet2503](https://github.com/proprophet2503)
+-  LinkedIn : [Jeremy Mattathias Mboe](www.linkedin.com/in/jeremy-mattathias-mboe-68776320b)
+-  Kaggle : [proprophet2503](https://www.kaggle.com/jeremymattathiasmboe)
+- ✉️ Reach me here on GitHub or add more contact info later!  
+
+---
+
+✨ Thanks for visiting my profile! Always open to collaborations and discussions about AI.
