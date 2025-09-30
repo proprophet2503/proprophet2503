@@ -25,6 +25,7 @@
 -  GitHub: [proprophet2503](https://github.com/proprophet2503)
 -  LinkedIn : [Jeremy Mattathias Mboe](www.linkedin.com/in/jeremy-mattathias-mboe-68776320b)
 -  Kaggle : [proprophet2503](https://www.kaggle.com/jeremymattathiasmboe)
+- Hugging Face : [jeremymboe](https://huggingface.co/jeremymboe)
 - ✉️ Reach me here on GitHub or add more contact info later!  
 
 ---
