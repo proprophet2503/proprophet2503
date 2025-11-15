@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Interests
 - **Data Mining**
-- **Machine Learning**  
+- **Machine Learning** (scikit-learn)  
 - **Deep Learning** (PyTorch, TensorFlow)  
 - **Computer Vision** (OpenCV, YOLO, CNNs)  
 - **Data Science & Analytics**  
